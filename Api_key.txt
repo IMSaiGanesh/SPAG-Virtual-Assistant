@@ -1,0 +1,2 @@
+GroqAPIKey = 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
+OpenWeatherAPIKey = 80fcfdc394edb614f0b526b4c8d675ba
